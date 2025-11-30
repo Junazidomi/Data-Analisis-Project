@@ -25,18 +25,40 @@ From the visualization of the total revenue per year graph above from Kimia Farm
 ![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Kimia%20Farma%20Analysis/Picture/Dashboard%20Analysis%20(2).png)
 
 Insight:
+
 From the visualization of total sales per year graph above from Kimia Farma. It can be concluded that Kimia Farma's Sales Trend Fluctuates every year altough the changes in sales are not significant
 
 ### Dashboard Analysis 3 : Kimia Farma Total Profit Map
 ![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Kimia%20Farma%20Analysis/Picture/Dashboard%20Analysis%20(3).png)
 
 Insight:
-From the map visualization of total profit in Indonesia by Province, it can concluded in Java Island
+
+From the map visualization of total profit in Indonesia by Province, It can be concluded that the darker the color, the greater the total profit in that province. On the island of Java, the highest total profit is in West Java Province, while on the island of Sumatra, North Sumatra Province has the highest total profit compared to other provinces. In addition, the graph shows that the distribution of total profit between provinces is still uneven, so efforts are needed to achieve a more even distribution through more effective marketing strategies.
+
+
 ### Dashboard Analysis 4 : Province Ranking by Sales and Total Transaction
 ![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Kimia%20Farma%20Analysis/Picture/Dashboard%20Analysis%20(4).png)
+
+Insight:
+
+From the table of province ranking by sales and total transaction, West java is highest ranking by sales and total transaction and the second highest is North Sumatra
+
 ### Dashboard Analysis 5: Total Transaction by Product Category
 ![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Kimia%20Farma%20Analysis/Picture/Dashboard%20Analysis%20(5).png)
+
+Insight:
+
+The Psycholectics, Hypnotics and Sedatives category was the product with the highest total transactions, accounting for 20.1% of overall sales. In second place, Anxiolytic products contributed 15.9%, indicating high demand for sedatives and anti-anxiety drugs. Meanwhile, drugs for obstructive respiratory diseases contributed 13.4% of total transactions, reflecting consistent demand related to respiratory problems. Overall, the distribution of transactions across various categories shows that Kimia Farma's sales are spread across various types of drugs, not focused on just one category.
+
+Translated with DeepL.com (free version)
+
+
 ### Dashboard Analysis 6 : Customer Ranking by Total Transaction
 ![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Kimia%20Farma%20Analysis/Picture/Dashboard%20Analysis%20(6).png)
-### Dashboard Analysis 7 : Score Card
-![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Kimia%20Farma%20Analysis/Picture/Dashboard%20Analysis%20(7).png)
+
+Insight:
+
+From the table of Customer Ranking by Total Transaction, the highest transaction customer name is Michael Smith
+
+
+
