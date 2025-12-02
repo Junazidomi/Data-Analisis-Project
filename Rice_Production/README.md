@@ -17,7 +17,29 @@ The reslut of this project were visualized using Google Locker Studio, and the d
 ![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Rice_Production/Dashboard.png)
 ### Dashboard Analysis 1: Average Rice Field (ha) in Indonesia
 
+![Dashboard1](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Rice_Production/Picture/Dashboard%20Anlysis%20(1).png)
+
+Insight:
+The graph showing the trend in rice production area (ha) each year shows that the average rice production area (ha) has decreased every year. This can be seen in the period 2018-2024 where ±30,000 ha has been lost. This can reduce rice production, which will have an impact on food security
+
 ### Dashboard Analysis 2: Total Rice Production By Island
+
+![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Rice_Production/Picture/Dashboard%20Anlysis%20(2).png)
+
+Insight:
+
+
+
 ### Dashboard Analysis 3: Annual Rice Production in Indonesia
+
+![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Rice_Production/Picture/Dashboard%20Anlysis%20(3).png)
+
+Insight
 ### Dashboard Analysis 4: Average Rice Productivity in Indonesia
+
+![Dashboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Rice_Production/Picture/Dashboard%20Anlysis%20(4).png)
+
+Insight:
+
 ### Dashboard Analysis 5: Indonesia Rice Production
+![Dasboard](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Rice_Production/Picture/Dashboard%20Anlysis%20(5).png)
