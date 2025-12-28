@@ -32,19 +32,31 @@ The result of this project were visualized using Google Locker Studio, and the d
 
 Insight:
 
-
+Based on the visualisation of corn production in Indonesia each year, it can be concluded that corn production fluctuates from year to year. Corn production showed a significant increase in the 2021–2022 period, then declined in the 2022–2023 period.
 
 ### Dashboard Analysis 2 : Average Corn Productivity by Year in Indonesia
 
 ![Dashboard2](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Corn%20Production/Picture/Productivity%20by%20Year.png)
 
+Insight:
+
+Based on corn productivity visualisation, it is known that corn productivity in Indonesia has increased consistently every year. The highest increase in productivity occurred in the 2022–2023 period, while the lowest increase occurred in the 2023–2024 period compared to other periods.
+
 ### Dashboard Analysis 3 : Average Corn Harvest Area by Year in Indonesia
 
 ![Dashboard3](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Corn%20Production/Picture/Harvest%20Area%20by%20Year.png)
 
+Insight:
+
+Based on the visualisation of the average annual corn production area in Indonesia, it is evident that the corn production area fluctuates. In the 2022–2023 period, there was a significant increase, while in the following period, namely 2023–2024, the corn production area decreased.
+
 ### Dashboard Analysis 4 : Total Corn Production by Island
 
 ![](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Corn%20Production/Picture/Production%20by%20Island.png)
+
+Insight:
+
+
 
 ### Dashboard Analysis 5 : Average Corn Productivity by Province
 
