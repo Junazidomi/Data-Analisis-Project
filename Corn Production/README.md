@@ -19,6 +19,7 @@ The Process in this project includes:
   
 ## Dashboard Result
 
+The result of this project were visualized
 ### Dashboard Analysis 1 : Total Corn Production by Year in Indonesia
 
 ![Dashboard1](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Corn%20Production/Picture/Production%20by%20Year.png)
