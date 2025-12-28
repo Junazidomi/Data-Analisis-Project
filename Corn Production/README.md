@@ -55,13 +55,21 @@ Based on the visualisation of the average annual corn production area in Indones
 ![](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Corn%20Production/Picture/Production%20by%20Island.png)
 
 Insight:
-
+Based on the visualisation of corn production by island in Indonesia, Java is the island that produces the most corn in Indonesia, around 51.9% or half of Indonesia's corn production. Meanwhile, Maluku and Papua produce the least amount of corn, around 0.1%.
 
 
 ### Dashboard Analysis 5 : Average Corn Productivity by Province
 
 ![Dashboard5](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Corn%20Production/Picture/Productivity%20by%20Province.png)
 
+Insight:
+
+Based on the table of average corn productivity by province, East Java Province has the highest average corn productivity compared to the other 10 top provinces, at 73.17%. Meanwhile, West Java Province has the lowest average productivity among the 10 provinces with the highest corn productivity, at 60.25%.
+
 ### Dashboard Analysis 6 : Total Corn Production by Province
 
 ![Dashboard6](https://raw.githubusercontent.com/Junazidomi/Data-Analisis-Project/refs/heads/main/Corn%20Production/Picture/Production%20by%20Province.png)
+
+Insight:
+
+Based on the visualisation of the total corn production map in Indonesia, the darker the colour displayed in a province, the higher the level of corn production. From this visualisation, it can be seen that East Java Province has the highest corn production compared to other provinces, followed by Central Java Province, which is also located on the island of Java. On the island of Sumatra, North Sumatra and Lampung provinces have the highest corn production compared to other provinces. Meanwhile, on the island of Sulawesi, South Sulawesi province has the highest corn production in the region.
